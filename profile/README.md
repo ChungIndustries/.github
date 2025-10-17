@@ -1,7 +1,10 @@
+<div align="center">
+
 [![Sponsor][sponsor-shield]][sponsor-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Followers][followers-shield]][followers-url]
-[![code style: prettier][prettier-shield]][prettier-url]
+
+</div>
 
 <!-- PROJECT LOGO -->
 <br />

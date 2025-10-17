@@ -51,7 +51,7 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## About The Project 🎯
 
 ![Product Name Screen Shot][product-screenshot]
 
@@ -74,16 +74,17 @@ This project is currently in active development with several working components.
 
 This project leverages a variety of technologies to recreate internet infrastructure in Minecraft:
 
-- [Lua](https://www.lua.org/) - Core scripting language for APIs and services
-- [TypeScript](https://www.typescriptlang.org/) - Type-safe development for complex systems
-- [ComputerCraft/CC:Tweaked](https://tweaked.cc/) - Minecraft mod platform for programmable computers
-- [Git/GitHub](https://github.com/) - Version control and collaboration
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Minecraft](https://img.shields.io/badge/minecraft-%2362B47A.svg?style=for-the-badge&logo=minecraft&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- KEY PROJECTS -->
 
-## Key Projects
+## Key Projects 🚀
 
 Our ecosystem consists of several interconnected projects:
 
@@ -107,7 +108,7 @@ Our ecosystem consists of several interconnected projects:
 
 <!-- GETTING STARTED -->
 
-## Getting Started
+## Getting Started 🛠️
 
 To get started with ChungIndustries, you'll need:
 
@@ -139,7 +140,7 @@ To get started with ChungIndustries, you'll need:
 
 <!-- ROADMAP -->
 
-## Roadmap
+## Roadmap 🗺️
 
 Our ambitious roadmap includes recreating major internet components:
 
@@ -158,7 +159,7 @@ See [discussions](https://github.com/orgs/ChungIndustries/discussions) and the i
 
 <!-- CONTRIBUTING -->
 
-## Contributing
+## Contributing 🤝
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -202,7 +203,7 @@ If you have a suggestion that would make this better, please fork one of our rep
 
 <!-- SUPPORT -->
 
-## Support / Sponsorship
+## Support / Sponsorship 💖
 
 ### Why Sponsor ChungIndustries?
 
@@ -228,7 +229,7 @@ Your sponsorship helps us:
 
 <!-- LICENSE -->
 
-## License
+## License 📜
 
 Distributed under various licenses depending on the repository. Most projects use the MIT License. See individual repository `LICENSE` files for more information.
 
@@ -236,7 +237,7 @@ Distributed under various licenses depending on the repository. Most projects us
 
 <!-- CONTACT -->
 
-## Contact
+## Contact 📩
 
 **ChungIndustries** - [@ChungIndustries](https://github.com/ChungIndustries)
 
@@ -250,8 +251,7 @@ Location: Sweden 🇸🇪
 
 <!-- ACKNOWLEDGMENTS -->
 
-## Acknowledgments
-
+## Acknowledgments 🙏
 
 - [ComputerCraft Community](https://www.computercraft.info/) - The foundation that makes this project possible
 - [CC:Tweaked](https://tweaked.cc/) - The modern ComputerCraft experience

@@ -252,7 +252,6 @@ Location: Sweden 🇸🇪
 
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
 - [ComputerCraft Community](https://www.computercraft.info/) - The foundation that makes this project possible
 - [CC:Tweaked](https://tweaked.cc/) - The modern ComputerCraft experience

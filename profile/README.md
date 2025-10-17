@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" id="top">
 
 [![Sponsor][sponsor-shield]][sponsor-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -18,7 +18,7 @@
   <p align="center">
     Recreating the Internet in Minecraft
     <br />
-    <a href="https://github.com/ChungIndustries"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ChungIndustries#about-the-project-"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="#key-projects">View Projects</a>
@@ -34,21 +34,21 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project-">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
-      <a href="#key-projects">Key Projects</a>
+      <a href="#key-projects-">Key Projects</a>
     </li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#support--sponsorship">Support / Sponsorship</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#getting-started-%EF%B8%8F">Getting Started</a></li>
+    <li><a href="#roadmap-%EF%B8%8F">Roadmap</a></li>
+    <li><a href="#contributing-">Contributing</a></li>
+    <li><a href="#support--sponsorship-">Support / Sponsorship</a></li>
+    <li><a href="#license-">License</a></li>
+    <li><a href="#contact-">Contact</a></li>
+    <li><a href="#acknowledgments-">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -71,7 +71,7 @@
 
 This project is currently in active development with several working components. While still very much a work-in-progress, we have foundational systems in place and are continuously expanding our capabilities.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
@@ -83,7 +83,7 @@ This project leverages a variety of technologies to recreate internet infrastruc
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- KEY PROJECTS -->
 
@@ -107,7 +107,7 @@ Our ecosystem consists of several interconnected projects:
 
 **Distributed file storage** - Cloud storage system that distributes files across multiple computers in the Minecraft world.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -139,7 +139,7 @@ To get started with ChungIndustries, you'll need:
    - Start with ChungPackageManager for easy package management
    - Use ChungMaps for world navigation and exploration
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 
@@ -158,7 +158,7 @@ Our ambitious roadmap includes recreating major internet components:
 
 See [discussions](https://github.com/orgs/ChungIndustries/discussions) and the individual project repositories for a full list of proposed features and known issues.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -202,7 +202,7 @@ We strictly adhere to the **Conventional Commits** convention. This helps mainta
 
 If you have a suggestion that would make this better, please fork one of our repositories and create a pull request. You can also start a discussion in our [organization discussions](https://github.com/orgs/ChungIndustries/discussions) or open an issue in the relevant project repository with the tag "enhancement". Don't forget to give our projects a star! Thanks again!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
@@ -228,7 +228,7 @@ Your sponsorship helps us:
 - 💻 **Contribute code** to help build the internet
 - 🐛 **Report bugs** and suggest improvements
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
@@ -236,7 +236,7 @@ Your sponsorship helps us:
 
 Distributed under various licenses depending on the repository. Most projects use the MIT License. See individual repository `LICENSE` files for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
@@ -250,7 +250,7 @@ Email: chrille_0313@hotmail.com
 
 Location: Sweden 🇸🇪
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -262,7 +262,7 @@ Location: Sweden 🇸🇪
 - [GitHub](https://github.com/) - For hosting our open source ecosystem
 - All our amazing contributors and supporters
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 

@@ -95,7 +95,7 @@ Our ecosystem consists of several interconnected projects:
 
 **Google Maps for Minecraft** - A sophisticated mapping system where turtles scan the world, sending block data to a database that's visualized in a web browser. Basically Google Maps, but for your Minecraft world!
 
-### 📦 [ChungPackageManager](https://github.com/ChungIndustries/ChungPackageManager)
+### 📦 [Chung Package Manager (cpm)](https://github.com/ChungIndustries/chung-industries)
 
 **Package manager for Chung Packages** - The npm/pip equivalent for our ecosystem, making it easy to install and manage internet services.
 
@@ -128,15 +128,15 @@ To get started with ChungIndustries, you'll need:
    - Install CC:Tweaked mod
    - Create a new world with ComputerCraft enabled
 
-2. **Install ChungPackageManager**
+2. **Install the Chung Package Manager**
 
    ```bash
-   # Follow the installation guide in the ChungPackageManager repository
+   # Follow the cpm setup guide in the chung-industries monorepo
    ```
 
-3. **Explore our repositories**
-   - Check out individual project READMEs for specific setup instructions
-   - Start with ChungPackageManager for easy package management
+3. **Explore our projects**
+   - Browse the [chung-industries monorepo](https://github.com/ChungIndustries/chung-industries) and each project's README for setup instructions
+   - Start with the Chung Package Manager for easy package management
    - Use ChungMaps for world navigation and exploration
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -178,23 +178,22 @@ Contributions are what make the open source community such an amazing place to l
 
 To ensure a smooth workflow and maintain consistency across the repository, we have a few guidelines in place.
 
-We follow a **main + development branch** workflow:
+We follow a **main + feature branch** workflow:
 
-- **`main` branch**: Production-ready code that's thoroughly tested and reviewed
-- **`development` branch**: Staging branch where feature branches are merged after review
+- **`main` branch**: Always releasable code, reviewed before it lands
+- **Feature branches**: Short-lived branches for each new feature or bug fix, merged into `main` after review
 
 #### Feature Branches
 
 - Create a new feature branch for every new feature or bug fix
-- Use descriptive names: `feature/user-authentication` or `bugfix/fix-login-error`
+- Use descriptive names: `feat/user-authentication` or `fix/login-error`
 
 #### Pull Request Workflow
 
-1. Ensure your feature branch is up to date with the `development` branch
-2. Open a PR against the **`development` branch** for new features and bug fixes
+1. Ensure your feature branch is up to date with `main`
+2. Open a PR against the **`main`** branch
 3. Assign appropriate reviewers and provide clear descriptions
-4. Once approved, your PR will be merged into `development`
-5. Only tested and stable changes will be merged from `development` into `main`
+4. Once approved and green, your PR is merged into `main`
 
 #### Commit Message Format
 
